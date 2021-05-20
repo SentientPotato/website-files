@@ -1,0 +1,27 @@
+% Encoding: UTF-8
+
+@Online{McClellanLiteralism,
+  author  = {Daniel O. McClellan},
+  date    = {2015-08-26},
+  title   = {On the myth of scriptural literalism},
+  url     = {https://danielomcclellan.wordpress.com/2015/08/26/on-the-myth-of-scriptural-literalism/},
+  urldate = {2021-05-20},
+}
+
+@Online{BertuzziChilders,
+  author  = {Cameron Bertuzzi},
+  date    = {2020-05-20},
+  title   = {Alisa {C}hilders: ``{P}rogressive {C}hristianity is dangerous''},
+  url     = {https://youtu.be/oQ6doQsSQLU},
+  urldate = {2021-05-03},
+}
+
+@Online{WingerProgSadducees,
+  author  = {Mike Winger},
+  date    = {2020-11-16},
+  title   = {Progressive {C}hristians are the modern {S}adducees: {T}he {M}ark series pt 48 (12:18-27)},
+  url     = {https://youtu.be/n9gMJdTqohI},
+  urldate = {2021-05-03},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}
