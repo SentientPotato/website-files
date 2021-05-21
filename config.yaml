@@ -155,6 +155,9 @@ params:
     #    title: Telegram
     # option to specify the copyright in the footer
     copyright: Sentient Potato - 2021
+  
+  ## For Disqus comments
+  disqusShortname: potato-patch
 
 ###################################################################
 ################## multilanguage support options ##################
