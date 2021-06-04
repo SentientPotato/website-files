@@ -1,0 +1,94 @@
+---
+date: "2021-06-04"
+draft: true
+hideLastModified: true
+title: "Gender and Sexuality: An Intro"
+summaryImage: "jesus-teaching-gender-sexuality.png"
+tags: ["Theology", "Gender and Sexuality"]
+summary: ""
+bibliography: "../theology-refs.bib"
+---
+
+# 
+
+Gender and sexuality is *the most* requested topic for this blog.
+So, this week I'm kicking off a series of (at least) six posts on it.
+Today, I'm going to do some introduction on the topic,
+talking about some general framework issues.
+Next week I'll get into issues of patriarchy,
+followed the week after by a post on transgender issues,
+followed by two posts on same-sex relationships,
+and ending(?) with a post on relationships and sexual ethics more broadly.
+
+So what's my starting point when thinking about issues of gender and sexuality?
+Y'all are gonna get tired of this, but... love.
+You are made in God's image (Genesis 1:27),
+and God loves you (Romans 8:38-39, 1 John 3:1),
+no matter what (Romans 8:38-39).
+We're called to love each other (Romans 13:8-10, 1 John 4:8).
+Is patriarchal oppression loving? No!
+Is shaming, othering, and oppressing LGBT folks loving? No!
+Of course these things aren't loving.
+So if that's what your theology leads to, you've lost a step along the way.^[
+I do want to acknowledge here that lately some conservative Christians
+have tried to go out of their way to maintain the same theological outlook
+(homosexuality is sinful, women should be submissive, etc)
+while recognizing *some* of the problematic behavior
+Christians engage in and advocating for a more loving outlook and behavior.
+I'll get into this, and why I think it's wrong-headed in subsequent posts.
+]
+
+<p class = 'doNotTag'>
+So what's the disconnect?
+What led to many Christians believing things that supported these bad outcomes?
+My best read on this is that many Christians fail to realize
+that what they've been taught about the Bible is itself an interpretation.
+When they read the Word,
+they see what they think is the "plain meaning" staring them in the face,
+but the truth is they're seeing what they've been *taught* to see.
+Take, for example, Genesis 1,
+which is often used to teach that gender is binary and transness is wrong:
+</p>
+
+> In the beginning God created the heavens and the earth...
+>   
+> And God said, "Let there be light," and there was light.  
+> God saw the light was good, and he separated the light from the darkness.  
+> God called the light "day," and the darkness he called "night"...
+> 
+> And God said,
+> "Let the water under the sky be gathered to one place,
+> and let dry ground appear." And it was so.  
+> God called the dry ground "land," and the gathered waters he called "seas"...
+>
+> Then God said, "Let us make mankind in our image"...  
+> So God created mankind in his own image, in the image of God he created them;
+> male and female he created them.  
+> God blessed them and said to them, “Be fruitful and increase in number"...
+
+"It says it right there---God made 2 genders, not 64!
+'Male and female he created them'---checkmate liberal!"
+Well, not so fast...
+It says that God created land and sea (Genesis 1:9-10),
+but don't we also see swamps and marshland?
+It says God created day and night (Genesis 1:4-5),
+but isn't there also dusk and sunset and sunrise?
+There is a wide variety of beauty in God's creation
+that isn't captured in the contrasts listed in the creation account.
+Why then does the conservative Christian
+assume the same can't be true of gender?
+(I'll be returning to this passage and this idea more in-depth in a later post).
+
+So in this series, I'll go through several aspects of gender and sexuality.
+I'll deconstruct positions I was taught,
+positions that nowadays are sometimes painted as
+"the" Christian position or "the" biblical position on those issues,^[
+    As we'll see, some of these theological stances weren't even
+    accepted by the early Church and sometimes are relatively new inventions,
+    but of course some Christians will have you believe
+    they're the only legitimate way to interpret Scripture 🙄
+]
+and I'll explain how I think we can better understand these issues;
+how we can approach gender and sexuality
+in a way that honors God's Word and His will...
+How to think about these issues that I believe helps us best follow The Way.

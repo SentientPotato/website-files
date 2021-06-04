@@ -1,0 +1,59 @@
+% Encoding: UTF-8
+
+@Book{Barr2021,
+  author    = {Beth Allison Barr},
+  date      = {2021-04-20},
+  title     = {The making of biblical womanhood: {H}ow the subjugation of woman became {G}ospel truth},
+  isbn      = {9781587434709},
+  publisher = {Brazos Press},
+}
+
+@Book{Keen2018,
+  author    = {Karen R. Keen},
+  date      = {2018-10-11},
+  title     = {Scripture, ethics, and the possibility of same-sex relationships},
+  isbn      = {9780802876546},
+  publisher = {Eerdmans Publishing Co.},
+}
+
+@Book{Brownson2013,
+  author    = {James V. Brownson},
+  date      = {2013-02-13},
+  title     = {Bible, gender, sexuality: {R}reframing the church's debate on same-sex relationships},
+  isbn      = {9780802868633},
+  publisher = {Eerdmans Publishing Co.},
+}
+
+@Online{Tallon2019,
+  author  = {Jonathan Tallon},
+  date    = {2019-02-07},
+  title   = {What does the {B}ible say about transgender people?},
+  url     = {http://www.bibleandhomosexuality.org/what-does-the-bible-say-about-transgender-people/},
+  urldate = {2021-01-23},
+}
+
+@Online{Tallon2018,
+  author  = {Jonathan Tallon},
+  date    = {2018-07-26},
+  title   = {St {P}aul, 1 {C}orinthians and homosexuality},
+  url     = {http://www.bibleandhomosexuality.org/st-paul-1-corinthians-and-homosexuality/},
+  urldate = {2021-06-04},
+}
+
+@Online{Tallon2020,
+  author  = {Jonathan Tallon},
+  date    = {2020-02-06},
+  title   = {What does the {B}ible say about homosexuality?},
+  url     = {http://www.bibleandhomosexuality.org/what-does-the-bible-say-about-homosexuality/},
+  urldate = {2021-06-04},
+}
+
+@Online{Tallon2020a,
+  author  = {Jonathan Tallon},
+  date    = {2020-07-19},
+  title   = {Condemned or not? {S}t {P}aul, {R}omans and homosexuality},
+  url     = {http://www.bibleandhomosexuality.org/condemned-or-not-st-paul-romans-and-homosexuality/},
+  urldate = {2021-06-04},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}
