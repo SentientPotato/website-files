@@ -118,6 +118,12 @@
           {{- end -}}
         {{- end -}}
         
+        <!-- Add link to my Buy Me a Coffee at the end of the navbar -->
+        <a href="https://www.buymeacoffee.com/SentientPotato" class="navbar-item" target="_blank">
+          <i class="fas fa-coffee coffee" style="color:{{- print $mainColour -}};"></i>
+        </a>
+        <!-- end Buy Me a Coffee link code -->
+        
         {{ $allTranslations := slice }}
         {{ range $.Site.Home.AllTranslations }}
           {{ if not (in $.Site.Params.hideLanguages .Language.Lang) }}
