@@ -102,4 +102,65 @@
   urldate = {2021-06-10},
 }
 
+@Article{Foster2017,
+  author       = {Timothy D. Foster},
+  date         = {2017},
+  journaltitle = {Journal for the Study of Paul and His Letters},
+  title        = {1 {T}imothy 2:13–15 as an analogy},
+  number       = {1},
+  pages        = {53--67},
+  volume       = {7},
+}
+
+@Online{Tilsen2014,
+  author  = {Jon-Jay Tilsen},
+  date    = {2014-07-08},
+  title   = {Cross Dressing and Deuteronomy 22:5},
+  url     = {http://www.beki.org/dvartorah/crossdressing/},
+  urldate = {2021-06-17},
+}
+
+@Article{Vedeler2008,
+  author       = {Harold Torger Vedeler},
+  date         = {2008},
+  journaltitle = {Journal of Biblical Literature},
+  title        = {Reconstructing meaning in {D}euteronomy 22:5: {G}ender, society, and transvestitism in {I}srael and the ancient {N}ear {E}ast},
+  number       = {3},
+  pages        = {459--476},
+  volume       = {127},
+}
+
+@Online{Versaldi2019,
+  author       = {Giuseppe Cardinal Versaldi},
+  date         = {2019-06-10},
+  title        = {Male and female he created them. {F}or a path of dialogue on the issue of gender in education},
+  url          = {https://zenit.org/2019/06/10/new-vatican-document-provides-schools-with-guidance-on-gender-issues/},
+  organization = {Catholic Church},
+  urldate      = {2021-06-17},
+}
+
+@Online{FocusOnTheFamily2018,
+  author  = {{Focus on the Family Issue Analysts}},
+  date    = {2018-02-01},
+  title   = {Transgenderism – our position},
+  url     = {https://www.focusonthefamily.com/get-help/transgenderism-our-position/},
+  urldate = {2021-06-17},
+}
+
+@Online{Mohney2014,
+  author  = {Gillian Mohney},
+  date    = {2014-12-31},
+  title   = {Leelah {A}lcorn: {T}ransgender teen's reported suicide note makes dramatic appeal},
+  url     = {https://abcnews.go.com/US/leelah-alcorn-transgender-teens-reported-suicide-note-makes/story?id=27912326},
+  urldate = {2021-06-17},
+}
+
+@Online{Assemblies2017,
+  author  = {{Assemblies of God}},
+  date    = {2017-08-07},
+  title   = {Transgenderism, transsexuality, and gender identity},
+  url     = {http://religiousinstitute.org/denom_statements/transgenderism-transsexuality-gender-identity/},
+  urldate = {2021-06-17},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
