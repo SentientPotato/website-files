@@ -172,4 +172,26 @@
   urldate      = {2021-06-17},
 }
 
+@Book{Vines2015,
+  author    = {Matthew Vines},
+  date      = {2015-06-16},
+  title     = {God and the gay {C}hristian: {T}he biblical case in support of same-sex relationships},
+  isbn      = {9781601425188},
+  publisher = {Convergent Books},
+}
+
+@Online{Strong1890,
+  author = {James Strong},
+  date   = {1890},
+  title  = {Strong's exhaustive concordance of the {B}ible},
+  url    = {https://biblehub.com/strongs.htm},
+}
+
+@Online{Burk2019a,
+  author = {Denny Burk},
+  date   = {2019-07-15},
+  title  = {Beware of a ``Test the Fruit'' Hermeneutic},
+  url    = {https://www.dennyburk.com/beware-of-a-test-the-fruit-hermeneutic/},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}

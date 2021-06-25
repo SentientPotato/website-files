@@ -163,4 +163,28 @@
   urldate = {2021-06-17},
 }
 
+@Online{Ainsworth2018,
+  author       = {Claire Ainsworth},
+  date         = {2018-10-22},
+  title        = {Sex redefined: {T}he idea of 2 sexes Is overly simplistic},
+  url          = {https://www.scientificamerican.com/article/sex-redefined-the-idea-of-2-sexes-is-overly-simplistic1/?fbclid=IwAR1zBKEC1_4OhbNe5xacEdgOi-1YXaVTeS02J_fw2N6rGmzVEHP686irM8E},
+  organization = {Scientific American},
+  urldate      = {2021-06-17},
+}
+
+@Book{Vines2015,
+  author    = {Matthew Vines},
+  date      = {2015-06-16},
+  title     = {God and the gay {C}hristian: {T}he biblical case in support of same-sex relationships},
+  isbn      = {9781601425188},
+  publisher = {Convergent Books},
+}
+
+@Online{Strong1890,
+  author = {James Strong},
+  date   = {1890},
+  title  = {Strong's exhaustive concordance of the {B}ible},
+  url    = {https://biblehub.com/strongs.htm},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
